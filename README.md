@@ -1,4 +1,4 @@
-# Hi there 👋 I'm S Rao
+# Hi there 👋 I'm Shravan S Rao
 
 ### 🎓 B.Tech Computer Science @ MIT Manipal
 ### 🌐 Aspiring Full Stack Developer | 🔐 Cybersecurity Enthusiast
@@ -7,11 +7,9 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **E-Commerce platforms** with TypeScript & Next.js
 - 🌱 Currently learning **Agentic AI** and **Backend Development**
 - 🔐 Exploring **Cybersecurity** via pwncollege challenges
 - 💬 Ask me about **React** **Next.js** **Node.js** or **Web Development**
-- ⚡ Fun fact: I love turning ideas into real web experiences!
 
 ---
 
@@ -43,16 +41,6 @@
 
 - 🏋️ Actively solving challenges on **pwncollege**
 - 💻 Interested in **Web Security** and **CTF challenges**
-
----
-
-## 📊 GitHub Stats
-
-![53rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=53rao&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=53rao&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=53rao&theme=tokyonight&hide_border=true)
 
 ---
 
